@@ -1,0 +1,8 @@
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\bin\Debug\Sınıf Uygulması Örnek.exe.config
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\bin\Debug\Sınıf Uygulması Örnek.exe
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\bin\Debug\Sınıf Uygulması Örnek.pdb
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\obj\Debug\Sınıf Uygulması Örnek.csproj.AssemblyReference.cache
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\obj\Debug\Sınıf Uygulması Örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\obj\Debug\Sınıf Uygulması Örnek.csproj.CoreCompileInputs.cache
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\obj\Debug\Sınıf Uygulması Örnek.exe
+C:\Users\erayy\source\repos\Sınıf Uygulması Örnek\obj\Debug\Sınıf Uygulması Örnek.pdb
